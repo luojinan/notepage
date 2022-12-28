@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./app.27340559.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"performance/ssr.md"}'),s={name:"performance/ssr.md"};function a(o,c,n,p,_,m){return t(),r("div")}const i=e(s,[["render",a]]);export{f as __pageData,i as default};

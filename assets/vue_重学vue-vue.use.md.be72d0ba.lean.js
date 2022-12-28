@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as a,a as n}from"./app.27340559.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/重学vue-vue.use.md"}'),o={name:"vue/重学vue-vue.use.md"},t=n("",2),p=[t];function c(l,r,_,u,i,d){return a(),e("div",null,p)}const v=s(o,[["render",c]]);export{C as __pageData,v as default};

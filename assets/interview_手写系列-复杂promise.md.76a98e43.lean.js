@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.8c2b9bab.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/手写系列-复杂promise.md"}'),p={name:"interview/手写系列-复杂promise.md"},o=l("",22),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const E=s(p,[["render",t]]);export{i as __pageData,E as default};
