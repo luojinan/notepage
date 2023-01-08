@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.8c2b9bab.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/手写系列-setTime模拟setInterval.md"}'),a={name:"interview/手写系列-setTime模拟setInterval.md"};function s(n,o,_,i,c,m){return r(),t("div")}const l=e(a,[["render",s]]);export{d as __pageData,l as default};

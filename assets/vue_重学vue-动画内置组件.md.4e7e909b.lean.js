@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as _,b as a}from"./app.8c2b9bab.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/重学vue-动画内置组件.md"}'),o={name:"vue/重学vue-动画内置组件.md"},s=a("p",null,"看动画内置组件 更多的是为了看看官方怎么封装这种通用组件",-1),n=[s];function r(c,d,p,i,u,l){return _(),t("div",null,n)}const v=e(o,[["render",r]]);export{f as __pageData,v as default};

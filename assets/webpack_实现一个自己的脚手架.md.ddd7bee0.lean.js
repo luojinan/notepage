@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.8c2b9bab.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"webpack/实现一个自己的脚手架.md"}'),_={name:"webpack/实现一个自己的脚手架.md"};function r(c,o,s,n,p,d){return a(),t("div")}const f=e(_,[["render",r]]);export{m as __pageData,f as default};

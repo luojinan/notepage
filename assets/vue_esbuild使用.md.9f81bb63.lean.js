@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.64ab3a52.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/esbuild使用.md"}'),r={name:"vue/esbuild使用.md"},s=a("",4),c=[s];function p(_,d,i,l,n,u){return o(),t("div",null,c)}const f=e(r,[["render",p]]);export{h as __pageData,f as default};

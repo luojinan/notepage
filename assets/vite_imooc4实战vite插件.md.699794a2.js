@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.64ab3a52.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vite/imooc4实战vite插件.md"}'),a={name:"vite/imooc4实战vite插件.md"};function c(r,i,s,n,_,m){return o(),t("div")}const f=e(a,[["render",c]]);export{d as __pageData,f as default};

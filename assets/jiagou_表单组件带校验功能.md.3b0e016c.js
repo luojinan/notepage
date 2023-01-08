@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.64ab3a52.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"jiagou/表单组件带校验功能.md"}'),_={name:"jiagou/表单组件带校验功能.md"};function o(r,s,c,n,i,p){return a(),t("div")}const f=e(_,[["render",o]]);export{m as __pageData,f as default};
