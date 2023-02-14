@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.64ab3a52.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vite/imooc3vite插件机制及使用.md"}'),p={name:"vite/imooc3vite插件机制及使用.md"},o=l("",2),e=[o];function t(c,r,F,y,D,i){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{C as __pageData,m as default};

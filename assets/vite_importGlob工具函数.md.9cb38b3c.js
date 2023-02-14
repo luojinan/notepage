@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./app.64ab3a52.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vite/importGlob工具函数.md"}'),r={name:"vite/importGlob工具函数.md"};function a(s,c,n,_,i,p){return o(),e("div")}const l=t(r,[["render",a]]);export{d as __pageData,l as default};

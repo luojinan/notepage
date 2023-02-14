@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.64ab3a52.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"jiagou/异步组件设计.md"}'),o={name:"jiagou/异步组件设计.md"};function r(_,s,c,n,i,p){return a(),t("div")}const f=e(o,[["render",r]]);export{m as __pageData,f as default};

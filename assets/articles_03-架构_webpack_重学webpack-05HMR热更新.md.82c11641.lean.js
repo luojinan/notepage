@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./app.4d65903c.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/webpack/重学webpack-05HMR热更新.md"}'),c={name:"articles/03-架构/webpack/重学webpack-05HMR热更新.md"};function r(s,o,p,_,n,i){return t(),a("div")}const m=e(c,[["render",r]]);export{l as __pageData,m as default};

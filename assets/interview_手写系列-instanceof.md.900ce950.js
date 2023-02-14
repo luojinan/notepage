@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./app.64ab3a52.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/手写系列-instanceof.md"}'),a={name:"interview/手写系列-instanceof.md"};function o(r,s,c,i,_,p){return n(),t("div")}const m=e(a,[["render",o]]);export{d as __pageData,m as default};

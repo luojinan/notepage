@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as _}from"./app.4d65903c.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/webpack/_草稿.md"}'),p={name:"articles/03-架构/webpack/_草稿.md"},c=_("",7),r=[c];function i(l,o,n,s,d,m){return a(),t("div",null,r)}const T=e(p,[["render",i]]);export{u as __pageData,T as default};

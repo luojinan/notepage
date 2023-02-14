@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.4d65903c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/02-框架/vue3/vueRouter4.md"}'),p={name:"articles/02-框架/vue3/vueRouter4.md"},o=l("",4),e=[o];function t(c,r,D,y,F,A){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{i as __pageData,u as default};

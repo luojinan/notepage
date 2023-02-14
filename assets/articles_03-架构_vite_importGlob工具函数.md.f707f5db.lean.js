@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app.4d65903c.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/vite/importGlob工具函数.md"}'),r={name:"articles/03-架构/vite/importGlob工具函数.md"};function a(s,c,i,n,_,p){return o(),e("div")}const d=t(r,[["render",a]]);export{m as __pageData,d as default};

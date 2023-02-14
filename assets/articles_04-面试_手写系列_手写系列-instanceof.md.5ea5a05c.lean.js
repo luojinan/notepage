@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as l,a}from"./app.4d65903c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/04-面试/手写系列/手写系列-instanceof.md"}'),o={name:"articles/04-面试/手写系列/手写系列-instanceof.md"},p=a("",5),t=[p];function e(c,r,y,F,D,A){return l(),n("div",null,t)}const f=s(o,[["render",e]]);export{i as __pageData,f as default};
