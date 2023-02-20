@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./app.948525b9.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/01-深度学习/js/serviceWorker.md"}'),s={name:"articles/01-深度学习/js/serviceWorker.md"};function a(c,o,n,i,p,_){return t(),r("div")}const m=e(s,[["render",a]]);export{l as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./app.4d65903c.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/performance/ssr.md"}'),s={name:"articles/03-架构/performance/ssr.md"};function a(c,o,n,p,i,_){return t(),r("div")}const f=e(s,[["render",a]]);export{d as __pageData,f as default};

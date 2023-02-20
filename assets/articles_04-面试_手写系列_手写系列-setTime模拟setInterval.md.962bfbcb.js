@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.948525b9.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/04-面试/手写系列/手写系列-setTime模拟setInterval.md"}'),r={name:"articles/04-面试/手写系列/手写系列-setTime模拟setInterval.md"};function s(n,c,o,_,i,l){return a(),t("div")}const d=e(r,[["render",s]]);export{p as __pageData,d as default};

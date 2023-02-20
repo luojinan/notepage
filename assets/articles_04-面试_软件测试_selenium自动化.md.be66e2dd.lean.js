@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as l,a as t}from"./app.948525b9.js";const d=JSON.parse('{"title":"selenium","description":"","frontmatter":{},"headers":[],"relativePath":"articles/04-面试/软件测试/selenium自动化.md"}'),n={name:"articles/04-面试/软件测试/selenium自动化.md"},r=t("",2),s=[r];function o(a,c,p,m,g,u){return l(),i("div",null,s)}const _=e(n,[["render",o]]);export{d as __pageData,_ as default};

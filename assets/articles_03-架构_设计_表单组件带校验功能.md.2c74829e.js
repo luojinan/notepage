@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.4d65903c.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/设计/表单组件带校验功能.md"}'),r={name:"articles/03-架构/设计/表单组件带校验功能.md"};function _(s,c,o,n,i,p){return a(),t("div")}const m=e(r,[["render",_]]);export{l as __pageData,m as default};

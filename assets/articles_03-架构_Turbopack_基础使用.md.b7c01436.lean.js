@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as c,a as t}from"./app.4d65903c.js";const T=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/Turbopack/基础使用.md"}'),d={name:"articles/03-架构/Turbopack/基础使用.md"},a=t("",8),i=[a];function r(p,l,s,n,u,_){return c(),o("div",null,i)}const k=e(d,[["render",r]]);export{T as __pageData,k as default};

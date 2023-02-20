@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as l}from"./app.4d65903c.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/03-架构/设计/monorepo.md"}'),p={name:"articles/03-架构/设计/monorepo.md"},o=l("",28),e=[o];function t(c,r,y,D,F,C){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};
