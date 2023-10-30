@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.b450deef.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/其他/work/eggjs.md","filePath":"articles/其他/work/eggjs.md"}'),a={name:"articles/其他/work/eggjs.md"};function s(o,c,n,i,p,_){return t(),r("div")}const g=e(a,[["render",s]]);export{l as __pageData,g as default};

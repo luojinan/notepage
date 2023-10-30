@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as n,V as p}from"./chunks/framework.b450deef.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"hiden/日本老龄社会.md","filePath":"hiden/日本老龄社会.md"}'),c={name:"hiden/日本老龄社会.md"},e=p("",11),o=[e];function s(i,_,l,r,g,m){return t(),n("div",null,o)}const u=a(c,[["render",s]]);export{h as __pageData,u as default};
